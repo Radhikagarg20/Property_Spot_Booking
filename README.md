@@ -1,7 +1,7 @@
 # Property_Spot_Booking 🏡
 
 
-# 🏡 **Luxury Villas Booking Platform**  
+# **Luxury Villas Booking Platform**  
 Welcome to the **Luxury Villas Booking Platform**, where elegance meets simplicity. Explore our curated collection of luxurious villas and effortlessly connect with sellers. Designed with beauty and functionality in mind, this website is your gateway to finding the perfect property.
 
 ---
@@ -59,7 +59,7 @@ Welcome to the **Luxury Villas Booking Platform**, where elegance meets simplici
 ## 📧 Contact  
 For questions, or feedback, feel free to reach out:
 
-- **Email**: [radhikagarg8767@gmail](mailto:radhikagarg8767@gmail.com)
+- **Email**: [radhikagarg8767@gmail.com](mailto:radhikagarg8767@gmail.com)
   
 ---
 
