@@ -6,6 +6,14 @@ Welcome to the **Luxury Villas Booking Platform**, where elegance meets simplici
 
 ---
 
+
+![Luxury Villas Screenshot](images/screenshot.jpg)
+
+
+
+
+
+
 ## **✨ Project Highlights**  
 - **Explore stunning properties** through high-resolution image galleries  
 - **Advanced search filters** for a personalized experience  
