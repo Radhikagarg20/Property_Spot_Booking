@@ -7,7 +7,7 @@ Welcome to the **Luxury Villas Booking Platform**, where elegance meets simplici
 ---
 
 
-![Luxury Villas Screenshot](images/screenshot.jpg)
+![Luxury Villas Screenshot](Screenshot.png)
 
 
 
